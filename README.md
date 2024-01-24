@@ -2,5 +2,5 @@
 IA 340: Data Mining, Modeling, and Knowledge Discovery
 
 
-  > Sean Stanaway
+  > Sean Stanaway: Intelligence Analysis
 
